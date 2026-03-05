@@ -58,12 +58,12 @@ This project was developed as part of the **Cyber Security Major Project (EdiGlo
 ## Installation & Usage
 Clone the repository and install dependencies:
 
-bash
+```bash
 git clone https://github.com/chaitanya554-11/SecureAuthProject.git
 cd SecureAuthProject
 npm install
 npm start
-
+```
 ---
 
 ##Deployment
