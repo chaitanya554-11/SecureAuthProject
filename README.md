@@ -66,24 +66,24 @@ npm start
 ```
 ---
 
-##Deployment
+## Deployment
 This project is deployed on Render.
 Live demo: https://secureauthproject.onrender.com
 
-##Security Measures
+## Security Measures
 -Password hashing with bcrypt
 -Rate limiting to prevent brute force login attempts
 -Input validation against injection attacks
 -Helmet for secure HTTP headers
 -Session protection with httpOnly cookies
 
-##Future Improvements
+## Future Improvements
 -CSRF protection
 -HTTPS enforcement
 -Forgot Password flow
 -Role‑based access control
 
-##Credits
+## Credits
 -Author:Lakkoju Chandra Chaitanya
 -Email:cmt.chaitanya554@gmail.com
 -Institution: EdiGlobe Cyber Security Major Project
