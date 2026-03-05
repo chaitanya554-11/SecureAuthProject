@@ -89,4 +89,4 @@ Live demo: https://secureauthproject.onrender.com
 -Institution: EdiGlobe Cyber Security Major Project
 
 ## License
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/chaitanya554-11/SecureAuthProject/blob/main/LICENSE) file in the repository.
